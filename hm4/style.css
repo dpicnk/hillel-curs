@@ -1,0 +1,49 @@
+/* Елементовий селектор */
+p {
+    color: red;
+}
+
+/* ID-селектор */
+#elementWithId {
+    color: blue;
+}
+
+/* Класовий селектор */
+.elementWithClass {
+    color: green;
+}
+
+/* Селектор за кількома класами */
+.multipleClasses.first {
+    color: purple;
+}
+
+/* Дочірній селектор */
+div>span {
+    color: orange;
+}
+
+/* Елементовий селектор для другого елемента */
+h2 {
+    color: brown;
+}
+
+/* ID-селектор для третього елемента */
+#thirdElement {
+    color: teal;
+}
+
+/* Класовий селектор для четвертого елемента */
+.fourthElement {
+    color: navy;
+}
+
+/* Селектор за кількома класами для п'ятого елемента */
+.multipleClasses.second {
+    color: magenta;
+}
+
+/* Дочірній селектор для шостого елемента */
+section>p {
+    color: darkcyan;
+}
